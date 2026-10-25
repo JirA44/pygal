@@ -1,3 +1,13 @@
+## Français
+
+Bibliothèque Python pour créer des graphiques vectoriels SVG. Exemple : générer un graphique depuis une série de données puis l’intégrer dans une page web ou un rapport.
+
+## English
+
+A Python library for creating SVG vector charts. Example: generate a chart from a data series and embed it in a webpage or report.
+
+---
+
 # Pygal
 
 
